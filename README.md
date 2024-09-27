@@ -1,7 +1,4 @@
 # Formula 1 Data Analysis with Azure Databricks
-
-Welcome to my GitHub repository! Here, I’ve documented a data analysis project leveraging Azure Databricks' power to explore and analyze Formula 1 racing data. This project uses several cutting-edge tools and techniques to derive insights and create dynamic visualizations.
-
 ## Project Overview
 In this project, I analyze Formula 1 racing data using various services within the Azure ecosystem. The project involves data ingestion, transformation, and analysis, resulting in insightful reports and visualizations. While this repository doesn’t include the Unity Catalog, all relevant Databricks notebooks are available.
 
